@@ -3,7 +3,7 @@ import Card from "@mui/material/Card";
 import CardActionArea from "@mui/material/CardActionArea";
 import CardMedia from "@mui/material/CardMedia";
 import { useNavigate } from "react-router-dom";
-import heroImage from "../images/dress.jpeg";
+import heroImage from "../images/event.png";
 
 export default function HeroImage() {
   const navigate = useNavigate();

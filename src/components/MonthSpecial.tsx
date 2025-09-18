@@ -40,7 +40,7 @@ export default function MonthSpecial() {
               }}
               mb={2}
             >
-              Valentine's Day Special
+              Get Inspired. Shop Your Style.
             </Typography>
             <Button variant="outlined" size="large">
               {/* TODO CHECK WITH NEHA */}
