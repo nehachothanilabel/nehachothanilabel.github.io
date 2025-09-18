@@ -3,7 +3,7 @@ import Card from "@mui/material/Card";
 import CardActionArea from "@mui/material/CardActionArea";
 import CardMedia from "@mui/material/CardMedia";
 import { useNavigate } from "react-router-dom";
-import heroImage from "../images/event.png";
+import heroImage from "../images/event3.png";
 
 export default function HeroImage() {
   const navigate = useNavigate();
@@ -12,7 +12,7 @@ export default function HeroImage() {
       <Card sx={{ maxWidth: 2000 }}>
         <CardActionArea onClick={() => navigate("/product/w9")}>
           <CardMedia
-            sx={{ height: { xs: 400, sm: 700 } }}
+            sx={{ height: { xs: 300, sm: 720 } }}
             image={heroImage}
             title="Hero image"
           />
