@@ -12,7 +12,7 @@ export default function HeroImage() {
       <Card sx={{ maxWidth: 2000 }}>
         <CardActionArea onClick={() => navigate("/product/w9")}>
           <CardMedia
-            sx={{ height: { xs: 300, sm: 720 } }}
+            sx={{ height: { xs: 300, sm: 800 } }}
             image={heroImage}
             title="Hero image"
           />
