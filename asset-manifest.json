@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4152c3d3.css",
-    "main.js": "/static/js/main.f741c9a8.js",
-    "static/media/dress.jpeg": "/static/media/dress.c8d097d8a01035627d86.jpeg",
+    "main.js": "/static/js/main.58de0197.js",
+    "static/media/event3.png": "/static/media/event3.049c77205df86cab8e2d.png",
     "static/media/goldenAccentsDress4.webp": "/static/media/goldenAccentsDress4.24cb4c21b0d16a9fcd29.webp",
     "static/media/goldenAccentsDress5.webp": "/static/media/goldenAccentsDress5.d288fc86a49c85fd2832.webp",
     "static/media/blueDressGoldenFlower2.webp": "/static/media/blueDressGoldenFlower2.4399787ca3eabbe3999d.webp",
@@ -79,10 +79,10 @@
     "static/media/logo.png": "/static/media/logo.2bc08bc3fa78ff188ba0.png",
     "index.html": "/index.html",
     "main.4152c3d3.css.map": "/static/css/main.4152c3d3.css.map",
-    "main.f741c9a8.js.map": "/static/js/main.f741c9a8.js.map"
+    "main.58de0197.js.map": "/static/js/main.58de0197.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.f741c9a8.js"
+    "static/js/main.58de0197.js"
   ]
 }
