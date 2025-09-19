@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4152c3d3.css",
-    "main.js": "/static/js/main.322660f8.js",
-    "static/media/event3.png": "/static/media/event3.049c77205df86cab8e2d.png",
+    "main.js": "/static/js/main.0cff53af.js",
     "static/media/goldenAccentsDress4.webp": "/static/media/goldenAccentsDress4.24cb4c21b0d16a9fcd29.webp",
     "static/media/goldenAccentsDress5.webp": "/static/media/goldenAccentsDress5.d288fc86a49c85fd2832.webp",
     "static/media/blueDressGoldenFlower2.webp": "/static/media/blueDressGoldenFlower2.4399787ca3eabbe3999d.webp",
@@ -59,6 +58,7 @@
     "static/media/blueDressGoldenFlower7.webp": "/static/media/blueDressGoldenFlower7.2beefa9688aa141f7534.webp",
     "static/media/greenDressGoldAccents1.webp": "/static/media/greenDressGoldAccents1.bcb230ac0b8c4cfb0768.webp",
     "static/media/redGoldenBlouseDress2.webp": "/static/media/redGoldenBlouseDress2.afe22b453899de3f6c44.webp",
+    "static/media/event.jpg": "/static/media/event.4c46a1946bae6e1f65c1.jpg",
     "static/media/purpleWithGlitter1.webp": "/static/media/purpleWithGlitter1.a402540fc3d6ba4d9e08.webp",
     "static/media/redGoldenBlouseDress8.webp": "/static/media/redGoldenBlouseDress8.02c79be30762caa618ff.webp",
     "static/media/redGoldenBlouseDress5.webp": "/static/media/redGoldenBlouseDress5.5dd4cc23f6d6b43398db.webp",
@@ -79,10 +79,10 @@
     "static/media/logo.png": "/static/media/logo.2bc08bc3fa78ff188ba0.png",
     "index.html": "/index.html",
     "main.4152c3d3.css.map": "/static/css/main.4152c3d3.css.map",
-    "main.322660f8.js.map": "/static/js/main.322660f8.js.map"
+    "main.0cff53af.js.map": "/static/js/main.0cff53af.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.322660f8.js"
+    "static/js/main.0cff53af.js"
   ]
 }
