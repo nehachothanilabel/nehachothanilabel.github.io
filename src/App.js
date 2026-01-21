@@ -9,7 +9,8 @@ import Faq from "./pages/Faq";
 import Home from "./pages/Home";
 import Kids from "./pages/Kids";
 import customTheme from "./customTheme";
-import ComingSoon from "./pages/ComingSoon";
+// import ComingSoon from "./pages/ComingSoon";
+import Men from "./pages/Men";
 import PageNotFound from "./pages/PageNotFound";
 import Product from "./pages/Product";
 import Women from "./pages/Women";
@@ -24,7 +25,7 @@ function App() {
       <BrowserRouter basename={baseName}>
         <Routes>
           <Route index element={<Home />} />
-          <Route path="men" element={<ComingSoon />} />
+          <Route path="men" element={<Men />} />
           <Route path="women" element={<Women />} />
           <Route path="kids" element={<Kids />} />
           <Route path="contact" element={<Contact />} />

@@ -34,7 +34,7 @@ export default function Men() {
                     image={product.defaultImage}
                     alt={product.title}
                     sx={{
-                      maxHeight: 700,
+                      height: 600,
                       objectFit: "cover",
                       width: "100%",
                     }}
